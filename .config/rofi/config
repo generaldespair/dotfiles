@@ -1,0 +1,17 @@
+rofi.color-window: #2e2a31, #bcbabe, #bcbabe
+rofi.color-normal: #2e2a31, #bcbabe, #2e2a31, #bb60ea, #bcbabe
+rofi.color-active: #2e2a31, #bcbabe, #2e2a31, #bb60ea, #bcbabe
+rofi.color-urgent: #2e2a31, #bcbabe, #bcbabe, #bb60ea, #bcbabe
+
+rofi.separator-style: dash
+rofi.sidebar-mode: true
+rofi.width : 45
+rofi.lines: 10
+rofi.font: Tamzen 14
+rofi.bw: 1
+rofi.columns: 1
+rofi.padding: 7
+rofi.fixed-num-lines: false
+rofi.hide-scrollbar: true
+
+
